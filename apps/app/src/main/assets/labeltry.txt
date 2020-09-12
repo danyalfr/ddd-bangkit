@@ -1,0 +1,10 @@
+"C0": "safe driving",
+"C1": "texting - right",
+"C2": "On the phone - right",
+"C3": "texting - left",
+"C4": "On the phone - left",
+"C5": "operating the radio",
+"C6": "drinking",
+"C7": "reaching behind",
+"C8": "hair and makeup",
+"C9": "talking to passenger"
